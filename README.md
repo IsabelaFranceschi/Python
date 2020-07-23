@@ -1,2 +1,3 @@
 # Python
-Some concept developments using Python programming language
+A repository destined to python codes
+
