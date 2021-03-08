@@ -1,6 +1,6 @@
 ## WELCOME everyone!
 
-Here I store some interesting projects using the Python Lenguage. Feel free to contribute.
+Here I keep some interesting projects using the Python Programming Lenguage. Feel free to contribute.
 Here is my github profile [Isabela Franceschi](https://github.com/IsabelaFranceschi) 
 
 ### Let see some
