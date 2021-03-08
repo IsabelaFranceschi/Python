@@ -3,9 +3,7 @@
 Here I store some interesting projects using the Python Lenguage. Feel free to contribute.
 Here is my github profile [Isabela Franceschi](https://github.com/IsabelaFranceschi) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Let see some
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
