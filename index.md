@@ -1,6 +1,7 @@
-## Projeto PYTHON
+## WELCOME everyone!
 
-You can use the [editor on GitHub](https://github.com/IsabelaFranceschi/Python/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here I store some interesting projects using the Python Lenguage. Feel free to contribute.
+Here is my github profile [Isabela Franceschi](https://github.com/IsabelaFranceschi) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
